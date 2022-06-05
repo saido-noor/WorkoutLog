@@ -6,4 +6,10 @@
     <string name="login">Login</string>
     <string name="email_required">Email is required</string>
     <string name="password_required">Password is required</string>
+    <string name="firstname">Firstname is required</string>
+    <string name="last_name">lastname is required</string>
+    <string name="first_name">firstname is required</string>
+    <string name="email_signup">email is required</string>
+    <string name="password_require">password required</string>
+    <string name="confirmation_required">confirmation is required</string>
 </resources>
