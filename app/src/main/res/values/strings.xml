@@ -12,4 +12,7 @@
     <string name="email_signup">email is required</string>
     <string name="password_require">password required</string>
     <string name="confirmation_required">confirmation is required</string>
+    <string name="plan">plan</string>
+    <string name="track">track</string>
+    <string name="profile">profile</string>
 </resources>
