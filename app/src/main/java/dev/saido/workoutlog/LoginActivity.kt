@@ -53,7 +53,7 @@ class LoginActivity : AppCompatActivity() {
             error=true
         }
         if(!error){
-            startActivity(Intent(this,singupActivity::class.java))
+            startActivity(Intent(this,homeActivity::class.java))
             finish()
         }
     }
