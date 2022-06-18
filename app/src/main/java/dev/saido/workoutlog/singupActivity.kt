@@ -72,6 +72,13 @@ class singupActivity : AppCompatActivity() {
             tilConfirm.error=getString(R.string.confirmation_required)
         }
 
+        if(password == confirm){
+            tilConfirm.error=getString(R.string.confirmerror)
+        }
+        if(password != confirm){
+            tilConfirm.error=getString(R.string.passworderror)
+        }
+
 
     }
 
